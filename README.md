@@ -117,7 +117,6 @@ Você verá uma interface para testar todos os endpoints da API.
 ## 📦 Futuras melhorias
 
 - Integração com autenticação (JWT)
-- Deploy na nuvem (Railway)
 - Integração com front-end React
 - Ordenação por prioridade ou status
 
